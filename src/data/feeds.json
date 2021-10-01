@@ -1,4 +1,7 @@
-[
+[{
+  "name": "Osama",
+  "linksUrl": "https://raw.githubusercontent.com/osama274/fbwd01linksosama/main/src/data/links.json"
+},
   {
     "name": "Ammar",
     "linksUrl": "https://raw.githubusercontent.com/bakkar3/linksSharingAmmar/main/src/data/links.json"
